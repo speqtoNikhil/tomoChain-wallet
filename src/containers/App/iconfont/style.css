@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'tomowallet';
+  src:  url('fonts/tomowallet.eot?s26itu');
+  src:  url('fonts/tomowallet.eot?s26itu#iefix') format('embedded-opentype'),
+    url('fonts/tomowallet.ttf?s26itu') format('truetype'),
+    url('fonts/tomowallet.woff?s26itu') format('woff'),
+    url('fonts/tomowallet.svg?s26itu#tomowallet') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'tomowallet' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-icon-angle-double-left:before {
+  content: "\e900";
+}
+.font-icon-angle-double-right:before {
+  content: "\e901";
+}
+.font-icon-angle-down:before {
+  content: "\e902";
+}
+.font-icon-angle-left:before {
+  content: "\e903";
+}
+.font-icon-angle-right:before {
+  content: "\e904";
+}
+.font-icon-angle-up:before {
+  content: "\e905";
+}
+.font-icon-email:before {
+  content: "\e906";
+}
+.font-icon-facebook:before {
+  content: "\e907";
+}
+.font-icon-github:before {
+  content: "\e908";
+}
+.font-icon-linkedin:before {
+  content: "\e909";
+}
+.font-icon-telegram:before {
+  content: "\e90b";
+}
+.font-icon-tomoz:before {
+  content: "\e90c";
+}
+.font-icon-twitter:before {
+  content: "\e90d";
+}
+.font-icon-wallet:before {
+  content: "\e90e";
+}
+.font-icon-reddit:before {
+  content: "\e90f";
+}
+.font-icon-next-right:before {
+  content: "\e910";
+}
+.font-icon-startup:before {
+  content: "\e911";
+}
+.font-icon-checkmark-outline:before {
+  content: "\e912";
+}
+.font-icon-edit-pencil:before {
+  content: "\e913";
+}
+.font-chevron-down:before {
+  content: "\e90a";
+}
